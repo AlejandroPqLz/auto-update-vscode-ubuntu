@@ -7,6 +7,8 @@
         <img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white" /></a>
     <a href="https://code.visualstudio.com/" alt="Visual Studio Code">
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /></a>
+    <a href="https://opensource.org/licenses/MIT" alt="License: MIT">
+        <img src="https://img.shields.io/badge/License-MIT-yellow.svg" /></a>
 </p>
 
 <pre>
