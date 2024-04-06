@@ -34,7 +34,7 @@
 
 This script will help you to update your Visual Studio Code version automatically in Ubuntu/Debian with one cli command.
 
-## ::hammer_and_wrench: Prerequisites
+## :hammer_and_wrench: Prerequisites
 
 This script requires the following prerequisites:
 
