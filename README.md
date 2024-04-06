@@ -60,7 +60,7 @@ sudo cp update-vscode.sh ~/.local/bin/update-vscode
 > mkdir -p ~/.local/bin
 > ```
 
-3. Add ~/.local/bin to your PATH:
+3. Add ~/.local/bin to your $PATH:
 
 ```bash
 echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
@@ -89,7 +89,7 @@ auto-update-vscode
 ## :warning: Important
 
 - This script will remove the previous version of Visual Studio Code and install the latest version.
-- You could choose any other location to add the script, just make sure to add the location to your PATH.
+- You could choose any other location to add the script, just make sure to add the location to your $PATH.
 
 ## :seedling: Contributing
 
