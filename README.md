@@ -69,7 +69,7 @@ echo 'export PATH="$HOME/.local/bin:$PATH"' >> ~/.bashrc
 4. Add execution permissions to the file:
 
 ```bash
-sudo chmod u+x ~/.local/bin/update-vscode
+sudo chmod +x ~/.local/bin/update-vscode
 ```
 
 5. Reload your bashrc:
